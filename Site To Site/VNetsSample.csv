@@ -1,3 +1,3 @@
 Subscription,VNetName,AddressPrefix,GatewaySubnet
-UIGOC Azure Directory,UIGOC Cloudnet A,10.0.2.0/24,10.0.2.32/27
-UIACT Directory,UIGOC Cloudnet B,10.0.1.0/24,10.0.1.32/29
+UIGOC Azure Directory,UIGOC Cloudnet A,10.0.1.0/24,10.0.1.32/29
+UIACT Directory,UIGOC Cloudnet B,10.0.2.0/24,10.0.2.32/27
